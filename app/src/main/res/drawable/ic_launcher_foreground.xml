@@ -1,0 +1,64 @@
+<!-- Save this as: res/drawable/ic_launcher_foreground.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Battery Body (moved up) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,35 L70,35 Q74,35 74,39 L74,75 Q74,79 70,79 L38,79 Q34,79 34,75 L34,39 Q34,35 38,35 Z"/>
+
+    <!-- Battery Terminal -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,28 L62,28 Q64,28 64,30 L64,35 L44,35 L44,30 Q44,28 46,28 Z"/>
+
+    <!-- Battery Level 1 (Bottom - Full) -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M38,65 L70,65 Q72,65 72,67 L72,75 Q72,77 70,77 L38,77 Q36,77 36,75 L36,67 Q36,65 38,65 Z"/>
+
+    <!-- Battery Level 2 (Middle) -->
+    <path
+        android:fillColor="#66BB6A"
+        android:fillAlpha="0.85"
+        android:pathData="M38,53 L70,53 Q72,53 72,55 L72,63 Q72,65 70,65 L38,65 Q36,65 36,63 L36,55 Q36,53 38,53 Z"/>
+
+    <!-- Battery Level 3 (Top) -->
+    <path
+        android:fillColor="#81C784"
+        android:fillAlpha="0.7"
+        android:pathData="M38,41 L70,41 Q72,41 72,43 L72,51 Q72,53 70,53 L38,53 Q36,53 36,51 L36,43 Q36,41 38,41 Z"/>
+
+    <!-- Chart Line (Logging visualization) -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M40,60 L48,52 L56,58 L64,48 L72,54"/>
+
+    <!-- Chart Data Points -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,60 m-2,0 a2,2 0,1,1 4,0 a2,2 0,1,1 -4,0"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,52 m-2,0 a2,2 0,1,1 4,0 a2,2 0,1,1 -4,0"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M56,58 m-2,0 a2,2 0,1,1 4,0 a2,2 0,1,1 -4,0"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M64,48 m-2,0 a2,2 0,1,1 4,0 a2,2 0,1,1 -4,0"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M72,54 m-2,0 a2,2 0,1,1 4,0 a2,2 0,1,1 -4,0"/>
+
+    <!-- Lightning Bolt -->
+    <path
+        android:fillColor="#FDD835"
+        android:pathData="M56,38 L51,46 L55,46 L53,54 L60,44 L56,44 L58,38 Z"/>
+</vector>
