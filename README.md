@@ -19,7 +19,7 @@
 
 You can download and install the latest APK from GitHub Releases:
 
-👉 **[Download Latest APK](https://drive.google.com/file/d/1P6JgplioZNyDvZnVZjCAwFVEjOnyMmaF/view?usp=sharing)**
+👉 **[Download Latest APK](https://github.com/nidulaj/Battery-logger/releases/download/v1.0.0/battery-logger.apk)**
 
 > [!IMPORTANT]  
 > Enable **“Install unknown apps”** on your Android device before installing.
